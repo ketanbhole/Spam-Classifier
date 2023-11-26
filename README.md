@@ -1,14 +1,19 @@
 Email Spam Classification
+
 This project involves building a machine learning model to classify emails as spam or not spam (ham) using a provided dataset.
 
 Dataset
+
 The dataset (emails.csv) contains 5172 rows and 3002 columns. Each row represents an email, and the columns consist of:
 
 Columns 1 to 3000: The count of the 3000 most common words in the emails (after excluding non-alphabetical characters/words).
 First column: Email names (set with numbers to protect privacy).
 Last column: Labels for prediction (1 for spam, 0 for not spam).
+
 Usage
+
 Dependencies
+
 Python 3.x
 pandas
 scikit-learn
