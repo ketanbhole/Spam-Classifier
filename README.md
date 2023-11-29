@@ -21,7 +21,7 @@ scikit-learn
 Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/Spam-Classifier.git
+git clone https://github.com/ketanbhole/Spam-Classifier.git
 
 Navigate to the project directory:
 cd Spam-Classifier.git
