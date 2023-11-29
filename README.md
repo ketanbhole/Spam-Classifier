@@ -10,6 +10,8 @@ Columns 1 to 3000: The count of the 3000 most common words in the emails (after 
 First column: Email names (set with numbers to protect privacy).
 Last column: Labels for prediction (1 for spam, 0 for not spam).
 
+Download dataset from here:
+https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv
 Usage
 
 Dependencies
